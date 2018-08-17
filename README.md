@@ -12,3 +12,4 @@
 - 支持上传图片,从其他网站图片源
 - 支持从别的网页上抓取图片(jQuery加载有错,暂时不可用)
 - bookmarklet详情页显示多少人like
+- 支持AJAX页面对图片like/unlike操作
