@@ -14,3 +14,4 @@
 - bookmarklet详情页显示多少人like
 - 支持AJAX页面对图片like/unlike操作
 - AJAX异步加载图片
+- 用户可以follow/unfollow其他用户
