@@ -20,3 +20,4 @@
 - 创建动作
 - 查看历史动作(最近十条)
 - 增加total_like(喜欢总数,signal方式)
+- 图片ranking功能(Redis)
